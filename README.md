@@ -6,7 +6,7 @@ The purpose is to simplify tracking of your preparation progress.
 
 Please, follow it's recommendation.
 
-For any other ideas ping vitaly.sukhov@akvelon.com.
+For any other question or ideas ping vitaly.sukhov@akvelon.com.
 
 ## Directory and file structure
 
@@ -29,17 +29,17 @@ The file should contains:
 
 ### Preparation
 
-1. Clone this repo;
+1. Fork this repo on Github;
 2. Add your user names for `codewars`, `hackerrank`, `leetcode` to `Progress tracking` section (update `README.md`)
 
 
 ### Problem solving
 
 1. Pick task from the list, read related articles;
-2. Solve task (tests on the service should pass);
-3. Add solution file to this repo (please, follow recommendation from `Directory and file structure` section)
-4. Update a row for the task - add solution file name;
-5. Don't fill `approved`
+2. Solve task (**tests on the service should pass**);
+3. Add solution file to this repo (please, follow recommendation from `Directory and file structure` section);
+4. Add solution file name to the `Progress tracking` section (replace `TODO` for the specific task). This is the **main indicator of your progress**;
+4. Don't fill `approved`, you need to ask someone to review your solutions and maybe even check on the services.
 
 ## Progress tracking
 
