@@ -43,6 +43,13 @@ The file should contains:
 
 ## Progress tracking
 
+### User names:
+
+1. Akvelon email: `<email>`
+2. Leetcode: `<username>`
+3. Codewars: `<username>`
+4. Hackerrank: `<username>`
+
 ### Stage 1. Coding Task Basics
 
 ##### 1. [Example task](https://leetcode.com/problems/longest-substring-without-repeating-characters/editorial/)
