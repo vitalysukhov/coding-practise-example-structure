@@ -47,22 +47,18 @@ The file should contains:
 
 ##### 1. [Example task](https://leetcode.com/problems/longest-substring-without-repeating-characters/editorial/)
 
-**File name:** [longest_substring.go](problems/leetcode/longest_substring.go).
-
+- **File name:** [longest_substring.go](problems/leetcode/longest_substring.go).
 - [X] **Approved By** vitaly.sukhov@akvelon.com
 
 ##### 2. Own array sorting function
 
-**Task:** Implement own array sorting function (insertion sort or similar)
-
-**File name:** TODO
-
+- **Task:** Implement own array sorting function (insertion sort or similar)
+- **File name:** TODO
 - [ ] **Approved By** `<reviewer email>`
 
 ##### 3. [Fibonacci numbers (non-recursion version)](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)
 
-**File name:** TODO
-
+- **File name:** TODO
 - [ ] **Approved By** `<reviewer email>`
 
 
@@ -70,16 +66,13 @@ The file should contains:
 
 ##### 1. [Fibonacci numbers (recursion version)](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)
 
-**File name:** TODO
-
+- **File name:** TODO
 - [ ] **Approved By** `<reviewer email>`
 
 ##### 2. Merge Sort
 
-**Task:** Implement Merge Sort
-
-**File name:** TODO
-
+- **Task:** Implement Merge Sort
+- **File name:** TODO
 - [ ] **Approved By** `<reviewer email>`
 
 
