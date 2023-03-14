@@ -45,14 +45,44 @@ The file should contains:
 
 ### Stage 1. Coding Task Basics
 
-1. [Example task](https://leetcode.com/problems/longest-substring-without-repeating-characters/editorial/)
+##### 1. [Example task](https://leetcode.com/problems/longest-substring-without-repeating-characters/editorial/)
 
-- File name: [longest_substring.go](problems/leetcode/longest_substring.go).
-- [X] Approved By vitaly.sukhov@akvelon.com
+**File name:** [longest_substring.go](problems/leetcode/longest_substring.go).
 
-2. Own array sorting function
+- [X] **Approved By** vitaly.sukhov@akvelon.com
 
-- Task: Implement own array sorting function (insertion sort or similar)
-- File name: TODO
-- [ ] Approved By `<reviewer email>`
+##### 2. Own array sorting function
+
+**Task:** Implement own array sorting function (insertion sort or similar)
+
+**File name:** TODO
+
+- [ ] **Approved By** `<reviewer email>`
+
+##### 3. [Fibonacci numbers (non-recursion version)](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)
+
+**File name:** TODO
+
+- [ ] **Approved By** `<reviewer email>`
+
+
+### Stage 2. Recursion
+
+##### 1. [Fibonacci numbers (recursion version)](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)
+
+**File name:** TODO
+
+- [ ] **Approved By** `<reviewer email>`
+
+##### 2. Merge Sort
+
+**Task:** Implement Merge Sort
+
+**File name:** TODO
+
+- [ ] **Approved By** `<reviewer email>`
+
+
+
+...tdb...
 
